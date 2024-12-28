@@ -1,4 +1,4 @@
-# Dimensionality Reduction Techniques
+# 👨‍💻📊 Dimensionality Reduction Techniques
 
 Welcome to the "Dimensionality Reduction Techniques" repository where various dimensionality reduction methods are explored using R-Studio. This repository is designed to provide a comprehensive guide to applying different dimensionality reduction techniques on both numerical and categorical data.
 
